@@ -2451,7 +2451,7 @@ translate schinese no_f89b5ac9:
     No "等等..."
 
 # game/script.rpy:862
-translate schinese no_3d1f7309:
+translate schinese no_c05a56a7:
 
     # nvl clear
     # No "{cps=25}...Shit...{/cps}"
