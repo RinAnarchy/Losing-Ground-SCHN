@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-01-26 02:34
+# TODO: Translation updated at 2026-07-24 05:26
 
 # game/script.rpy:115
 translate schinese start_0a5c8d66:
@@ -67,7 +67,7 @@ translate schinese yes_28053522:
     No "以及动物屠宰画面。"
 
 # game/script.rpy:135
-translate schinese yes_87e01071:
+translate schinese yes_16d823f4:
 
     # nvl clear
     # No "The use of bigotry within this story is used for critique and I do not condone it."
@@ -81,7 +81,7 @@ translate schinese yes_5bfa00e3:
     No "如果你认为自己不能接受以上内容，请关闭游戏。"
 
 # game/script.rpy:140
-translate schinese yes_e3c38b13:
+translate schinese yes_e0167c36:
 
     # nvl clear
     # I "I'm sorry."
@@ -125,7 +125,7 @@ translate schinese no_fea193ac:
     I "{cps=20}地面已然离去。{/cps}"
 
 # game/script.rpy:162
-translate schinese no_77c39db4:
+translate schinese no_6407502e:
 
     # nvl clear
     # I "{cps=20}Rust corrodes the beams holding the sky.{/cps}"
@@ -157,7 +157,7 @@ translate schinese no_977dd956:
     I "{cps=20}地面已然消失。{/cps}"
 
 # game/script.rpy:170
-translate schinese no_d87cda66:
+translate schinese no_4c99d832:
 
     # nvl clear
     # I "{cps=20}Rust runs the heavy walls, splitting off in patterns - cracking off in flecks and speckles.{/cps}"
@@ -195,7 +195,7 @@ translate schinese no_f18f6048:
     I "{cps=20}拉着所有人陪葬。{/cps}"
 
 # game/script.rpy:179
-translate schinese no_a58d6757:
+translate schinese no_f3ac193d:
 
     # nvl clear
     # I "{cps=17}You look down at the moon{/cps}"
@@ -209,7 +209,7 @@ translate schinese no_a9b1533e:
     I "{cps=17}你也俯视天空。{/cps}"
 
 # game/script.rpy:184
-translate schinese no_c10e7aa8:
+translate schinese no_fa2fc675:
 
     # nvl clear
     # I "{cps=20}Everything will feel so much safer.{/cps}"
@@ -247,7 +247,7 @@ translate schinese no_713dc2dd:
     I "{cps=20}地面已然不再。{/cps}"
 
 # game/script.rpy:193
-translate schinese no_920503c9:
+translate schinese no_815d91b7:
 
     # nvl clear 
     # I "Please Stop."
@@ -267,7 +267,7 @@ translate schinese no_41d0db45:
     I "{cps=10}呼气。{/cps}"
 
 # game/script.rpy:199
-translate schinese no_7952de41:
+translate schinese no_231e54d0:
 
     # nvl clear
     # I "{cps=20}Can you hear it?{/cps}"
@@ -491,7 +491,7 @@ translate schinese no_b779588d:
     I "{cps=20}你意识到从未有过地面。{w}你意识到支撑着你的正是自己。{w}已经无所谓了。{w}再一小会。{/cps}"
 
 # game/script.rpy:281
-translate schinese no_0f73bcd7:
+translate schinese no_1057b8c4:
 
     # nvl clear
     # "There is a gun."
@@ -1459,7 +1459,7 @@ translate schinese no_efbb50f9:
     I "{cps=20}...在你破败的头骨中。{/cps}"
 
 # game/script.rpy:569
-translate schinese no_a859c43a:
+translate schinese no_128bd17b:
 
     # nvl clear
     # I "{cps=20}You need to make a hole...{/cps}"
@@ -2349,7 +2349,7 @@ translate schinese no_dab0914e:
     "全黑了。{w}血红的黑。"
 
 # game/script.rpy:837
-translate schinese no_bf1a6303:
+translate schinese no_582f5f1b:
 
     # nvl clear
     # No "{cps=25}I'm dragged down the stairs.{/cps}"
@@ -2381,7 +2381,7 @@ translate schinese no_394dfff7:
     No "{cps=25}这是绑架。{/cps}"
 
 # game/script.rpy:845
-translate schinese no_42cc206a:
+translate schinese no_57ada16e:
 
     # nvl clear
     # No "{cps=25}My limp body is thrown into the back of a car.{w}{i} What a familiar smell.{/i}{/cps}"
@@ -2419,7 +2419,7 @@ translate schinese no_7b39c755:
     No "{cps=25}或许我是在去殡仪馆的路上。{/cps}"
 
 # game/script.rpy:854
-translate schinese no_88711fd7:
+translate schinese no_112faac0:
 
     # nvl clear
     # No "{cps=25}I wonder if I'll disappear after I'm cremated.{p} Go to whatever hell exists or just sent into oblivion.{/cps}"
@@ -2489,7 +2489,7 @@ translate schinese no_919d43c4:
     No "{cps=25}肯定是那个肩膀撞到我的人干的。{/cps}"
 
 # game/script.rpy:871
-translate schinese no_fcdbbb9e:
+translate schinese no_ecaf16c5:
 
     # nvl clear
     # No "{cps=25}That fucker.{/cps}"
@@ -2647,7 +2647,7 @@ translate schinese no_c2e2ac87:
     "...走了..."
 
 # game/script.rpy:917
-translate schinese no_ce49600a:
+translate schinese no_a7f56575:
 
     # nvl clear
     # No "{cps=25}{p}By the time I regained control over my limbs they already had me trussed in Zipties and stripped bare.{/cps}"
@@ -3795,7 +3795,7 @@ translate schinese no_99368078:
     "然后他告诉我了他的名字。"
 
 # game/script.rpy:1214
-translate schinese no_69cbcbd8:
+translate schinese no_367ebcb5:
 
     # nvl clear
     # I "{cps=20}You look out the smoke stained window to see flickers of shapes passing by, unoffended.{/cps}"
@@ -3827,7 +3827,7 @@ translate schinese no_2872a99e:
     I "{cps=20}唯有此刻你能听见，趁它尚未消逝。{/cps}"
 
 # game/script.rpy:1222
-translate schinese no_16dcf44c:
+translate schinese no_27c2622b:
 
     # nvl clear
     # I "{cps=20}As you fall back.{/cps}"
@@ -4813,7 +4813,7 @@ translate schinese no_96b3e74b:
     No "{cps=20}看着他那具流淌着体液的尸体，除了恶心，别无他感。{/cps}"
 
 # game/script.rpy:1534
-translate schinese no_4148976f:
+translate schinese no_13a8f2b6:
 
     # nvl clear
     # No "{cps=20}As much as I'd like to believe I've been desensitized to death from my job{p}I know that's not true.{/cps}"
@@ -5879,7 +5879,7 @@ translate schinese no_9d8c71b7:
     "但那股热似乎从未离去。"
 
 # game/script.rpy:1885
-translate schinese no_171198ed:
+translate schinese no_1b87e146:
 
     # nvl clear
     # No "Hours go by."
@@ -5917,7 +5917,7 @@ translate schinese no_ecdff50d:
     No "在角落的尸体看着一切。{p}百万里以外。"
 
 # game/script.rpy:1894
-translate schinese no_c61ed00a:
+translate schinese no_75bffc07:
 
     # nvl clear
     # No "Nobody tries anything to escape."
@@ -9519,7 +9519,7 @@ translate schinese no_24adefe7:
     No "很恶心。"
 
 # game/script.rpy:2868
-translate schinese no_ce178acc:
+translate schinese no_d6d7d1ff:
 
     # nvl clear
     # No "I'm disgusting.{p}I feel more upset about losing my jacket than watching that coyote get beheaded."
@@ -9551,7 +9551,7 @@ translate schinese no_b16d855e:
     No "只是个怪物—{p}长了张充满歉意的脸。"
 
 # game/script.rpy:2876
-translate schinese no_ffca48a9:
+translate schinese no_cb400dce:
 
     # nvl clear
     # No "He deserved it."
